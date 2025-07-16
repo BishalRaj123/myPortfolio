@@ -101,7 +101,7 @@ const Hero = () => {
                 {/* Avatar */}
                 <Avatar className="w-full h-full relative z-10 card-3d group-hover:scale-105 transition-all duration-500 transform-style-3d">
                   <AvatarImage 
-                    src="/myPortfolio/bishal.png" 
+                    src="/bishal.png" 
                     alt="Bishal Babu Rajbanshi"
                     className="object-cover group-hover:brightness-110 transition-all duration-300"
                   />
@@ -153,7 +153,7 @@ const Hero = () => {
           {/* Enhanced CTA Buttons with 3D effects */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8 animate-scale-in animate-delay-500">
             <a
-              href="/myPortfolio/resume.pdf"
+              href="/resume.pdf"
               download
               className="group relative flex items-center gap-3 bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-4 rounded-lg font-semibold transition-all duration-300 hover:scale-105 hover:shadow-2xl card-3d transform-style-3d"
             >

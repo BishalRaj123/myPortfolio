@@ -50,7 +50,7 @@ const Footer = () => {
           {/* Theme Toggle & Download */}
           <div className="flex justify-end items-center gap-4">
             <a
-              href="/myPortfolio/resume.pdf"
+              href="/resume.pdf"
               download
               className="glass-card hover:bg-primary/10 text-foreground px-4 py-2 rounded-lg font-medium transition-all duration-300 hover:scale-105"
             >

@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: "AI-Powered Video Summarization, Q&A & Construction Site Report Generation",
       description: "Final year engineering project that automates video summarization, Q&A, and site reporting using MoviePy, Whisper, YOLOv8, BLIP, and SMOLVLM. Reduced manual analysis time by 80% with real-time insights and report downloads.",
-      image: "/myPortfolio/construction.jpg",
+      image: "/construction.jpg",
       tech: ["YOLOv8", "Python", "MoviePy", "BLIP", "SMOLVLM", "React", "Flask", "TypeScript"],
       github: "https://github.com/BishalRaj123/VIDInsights",
       live: "#",
@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: "Bitcoin Price Prediction using ML",
       description: "Advanced machine learning model leveraging LSTM networks and technical indicators to predict Bitcoin price trends. Published at IEEE NKCon 2024, providing accurate forecasts to aid financial decision-making.",
-      image: "/myPortfolio/bitcoin.png",
+      image: "/bitcoin.png",
       tech: ["Python", "TensorFlow", "ARIMA", "LSTM", "GRU", "Pandas","Numpy", "Matplotlib"],
       github: "https://github.com/BishalRaj123/Bitcoin-Price-Prediction",
       live: "#",
@@ -24,7 +24,7 @@ const Projects = () => {
     {
       title: "DeepFake Image Detection",
       description: "Built a deepfake detection system using CNNs with 95% accuracy. Real-time Flask app lets users verify image authenticity to combat misinformation and fake content.",
-      image: "/myPortfolio/deepfake.jpg",
+      image: "/deepfake.jpg",
       tech: ["Python", "CNN", "Flask", "OpenCV"],
       github: "https://github.com/BishalRaj123/DeepFake-Image-Detection",
       live: "#",
@@ -43,7 +43,7 @@ const Projects = () => {
     {
       title: "Image Caption Generator for Visually Impaired Users",
       description: "Built an attention-based LSTM/RNN system that converts images into natural language captions to help visually impaired users access visual content online.",
-      image: "/myPortfolio/image_caption.jpeg",
+      image: "/image_caption.jpeg",
       tech: ["Python", "LSTM", "RNN", "Attention", "NLP"],
       github: "#",
       live: "#",

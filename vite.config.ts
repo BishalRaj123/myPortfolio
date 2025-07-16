@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: '/myPortfolio', // ✅ Essential for subpath hosting
+  base: '/', // ✅ Essential for subpath hosting
   server: {
     host: "::",
     port: 8080,
